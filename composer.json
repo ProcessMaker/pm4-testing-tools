@@ -1,5 +1,5 @@
 {
-    "name": "processmaker/pm4-testing-tools",
+    "name": "processmaker4/pm4-testing-tools",
     "description": "pm4-testing-tools",
     "bin": ["bin/pm4tools"],
     "type": "project",
