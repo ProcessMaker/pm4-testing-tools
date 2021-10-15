@@ -1,7 +1,7 @@
 {
     "name": "processmaker4/pm4-testing-tools",
     "description": "pm4-testing-tools",
-    "license": "GNU-GPL",
+    "license": "GAGPL-3.0-or-later",
     "bin": ["bin/pm4tools"],
     "type": "project",
     "require": {}
