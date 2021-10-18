@@ -24,3 +24,11 @@ Artisan::command('users', function () {
 })->describe('List all stored user names');
 
 ```
+
+### Import testing screen
+```
+> pm4tools test:screen
+ Available screens::
+  [0] validation rules loop
+ > 0
+```
