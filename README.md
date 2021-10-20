@@ -32,3 +32,9 @@ Artisan::command('users', function () {
   [0] validation rules loop
  > 0
 ```
+
+### Create n users
+To create 3 non admin users:
+```
+> pm4tools create:user 3
+```
