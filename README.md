@@ -28,9 +28,27 @@ Artisan::command('users', function () {
 ### Import testing screen
 ```
 > pm4tools test:screen
- Available screens::
+ Available screens:
   [0] validation rules loop
  > 0
+```
+
+### Import testing screen by ticket number
+```
+> pm4tools test:screen --t=[ticket_number]
+```
+
+### Import testing process
+```
+> pm4tools test:process
+ Available process:
+  [0] 1126
+ > 0
+```
+
+### Import testing process by ticket number
+```
+> pm4tools test:process --t=[ticket_number]
 ```
 
 ### Create n users
